@@ -1,0 +1,14 @@
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\bin\Debug\net7.0\Practice.Work8.exe
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\bin\Debug\net7.0\Practice.Work8.deps.json
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\bin\Debug\net7.0\Practice.Work8.runtimeconfig.json
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\bin\Debug\net7.0\Practice.Work8.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\bin\Debug\net7.0\Practice.Work8.pdb
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\Practice.Work8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\Practice.Work8.AssemblyInfoInputs.cache
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\Practice.Work8.AssemblyInfo.cs
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\Practice.Work8.csproj.CoreCompileInputs.cache
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\Practice.Work8.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\refint\Practice.Work8.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\Practice.Work8.pdb
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\Practice.Work8.genruntimeconfig.cache
+C:\Users\Sanzhar\RiderProjects\Practice.Work8\Practice.Work8\obj\Debug\net7.0\ref\Practice.Work8.dll
